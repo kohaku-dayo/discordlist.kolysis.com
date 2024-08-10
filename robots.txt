@@ -3,3 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /discordauth/
 Disallow: /dashboard/
+Disallow: /server/edit/
