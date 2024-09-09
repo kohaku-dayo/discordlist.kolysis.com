@@ -2,4 +2,10 @@ User-agent: *
 Allow: /
 Disallow: /discordauth/
 Disallow: /dashboard/
+Disallow: /search/
+Disallow: /ranking/
+Disallow: /server/stepper/
+Disallow: /setting/
+Disallow: /jp/
+Disallow: /en/
 Disallow: /server/edit/
